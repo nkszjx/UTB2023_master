@@ -1,6 +1,6 @@
 # The Urban Tree Canopy Cover in Brazil
 
-This is the pytorch codes for our paper: [Assessing the Macro-scale Patterns of Urban Tree Canopy Cover in Brazil (submitted to Sustainable Cities and Society)].
+
 To better service Brazil’s urban ecosystem, we developed a semi-supervised deep learning method, which is able to learn semantic segmentation knowledge from both labeled and unlabeled images, to segment urban trees from high spatial resolution remote sensing images. The approach attains significant improvement over existing methods, especially when trained with limited labeled samples. Using this approach, we created 0.5 m fine-scale tree canopy products for 472 cities in Brazil and made them freely available to the community ([UTB dataset](https://nkszjx.github.io/projects/UTC-Data.html)).
 
 ![](/figure/TreeSeg_Network.png)
